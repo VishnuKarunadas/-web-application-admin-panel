@@ -1,0 +1,19 @@
+{
+  "name": "week-6",
+  "version": "1.0.0",
+  "description": "Admin-User_Management-week-6",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/app.js",
+    "dev"  : "nodemon src/app.js"
+  },
+  "keywords": [
+    "nodejs",
+    "javascript"
+  ],
+  "author": "Vishnu Karunadas",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.0"
+  }
+}
